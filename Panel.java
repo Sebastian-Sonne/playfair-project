@@ -169,7 +169,6 @@ public class Panel extends JPanel {
      * @param e used to distinuis between decryption and encryption
      */
     private void processCryption(ActionEvent e) {
-        String actionCommand = e.getActionCommand();
         String check = checkInput(inputField.getText().toUpperCase(), passwordField.getText().toUpperCase());
 
         switch (check) {
@@ -186,7 +185,7 @@ public class Panel extends JPanel {
                 showMessageDialog(ERROR_INVALID_PASSWORD);
                 break;
             default:
-                performCryption(actionCommand);
+                performCryption(e.getActionCommand()); //ActionCommand is used to distinguish between the buttons clicked
                 break;
         }
     }
