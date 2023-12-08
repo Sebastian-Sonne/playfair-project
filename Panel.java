@@ -174,27 +174,20 @@ public class Panel extends JPanel {
 
         switch (check) {
             case "e1":
+                showMessageDialog(ERROR_INPUT_EMPTY);
+                break;
             case "e2":
+                showMessageDialog(ERROR_PASSWORD_EMPTY);
+                break;
             case "e3":
+                showMessageDialog(ERROR_INVALID_INPUT);
+                break;
             case "e4":
-                showMessageDialog(getErrorMessage(check));
+                showMessageDialog(ERROR_INVALID_PASSWORD);
                 break;
             default:
                 performCryption(actionCommand);
                 break;
-        }
-    }
-
-    /**
-     * @return the according error message to the according error
-     */
-    private String getErrorMessage(String check) {
-        switch (check) {
-            case "e1": return ERROR_INPUT_EMPTY;
-            case "e2": return ERROR_PASSWORD_EMPTY;
-            case "e3": return ERROR_INVALID_INPUT;
-            case "e4": return ERROR_INVALID_PASSWORD;
-            default: throw new IllegalArgumentException("Unexpected value: " + check);
         }
     }
 
