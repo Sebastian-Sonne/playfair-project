@@ -138,10 +138,10 @@ public class Verschluesselung
     private String entschluesseltesReinigen(String s) {
         if (s.length() < 1) return s;
         
-        if (s.charAt(s.length()-1) == 'X') {
-            StringBuffer sb= new StringBuffer(s);  
-            sb.deleteCharAt(sb.length()-1);
-            s = sb.toString();
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == 'X') {
+                s = s.substring(0, i) + s.substring(i + 1);
+            }
         }
 
         return s;
