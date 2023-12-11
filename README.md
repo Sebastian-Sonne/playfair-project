@@ -1,4 +1,4 @@
-# Playfair-Project [german]#
+# Playfair-Project [german] #
 Welcome to the Playfair-Project, a Java application designed to help students improve their programming skills. This project includes a simple Input/Output (IO) system and an encryption/decryption algorithm based on the Playfair encryption method.
 
 ## Key Features: ##
@@ -18,16 +18,22 @@ To begin exploring the Playfair-Project, follow these steps:
 
 ### For All Other Use Cases: ###
 
-1. **Download the Solution:** Opt for either the [BlueJ Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution%20-%20BLUEJ%20Version.zip) or the [.jar Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution.jar) file.
+1. **Download the Solution:** Choose either the [BlueJ Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution%20-%20BLUEJ%20Version.zip) or the [.jar Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution.jar) file.
 2. **Open in Your IDE:** If you picked the BlueJ version, launch it in BlueJ. For the .jar Version, utilize your preferred IDE.
 3. **Explore or Adapt:** Delve into any of the classes and adapt them to suit your specific use case or explore the existing functionality.
 
+
 Feel free to choose the path that aligns with your goals, whether it's tackling the challenge or leveraging the solution for other purposes. Happy coding!
 
+## How to Contribute: ##
+Contributions are welcome. Contributions are welcome! Whether you're a student looking to improve existing features or an experienced developer suggesting enhancements, your input is valuable.
+* As listed in the title, the appliction itself is in german. Feel free to translate the existing version into an **englisch version of the program**. Feel free to contact me if you are interested.
  
 ## Disclaimer: ##
 
 **Note:** The Playfair encryption algorithm implemented in this project has inherent limitations. It is crucial to be aware of the following constraints:
+
+0. **Language Barrier:** The user interface is in german, as well as all the code comments and description in the "Verschluesslung" class.
 
 1. **Exclusion of the Letter 'J':** Playfair encryption, as applied in this project, excludes the letter 'J' due to historical implementations. This limitation may affect the representation of certain text and impacts the key space.
 
