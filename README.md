@@ -12,25 +12,15 @@ To begin exploring the Playfair-Project, follow these steps:
 
 ### For the Challenge Seekers: ###
 
-1. **Download:**
-   - Choose either the [BlueJ Version](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20-%20BLUEJ%20Version.zip) or the [.jar Version](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption.jar) file.
-
-2. **Open in Your IDE:**
-   - If you picked the BlueJ version, open it in BlueJ. For the .jar Version, use your preferred IDE.
-
-3. **Start Coding:**
-   - Dive into the "Verschluesselung" class and embark on the coding challenge.
+1. **Download:** Choose either the [BlueJ Version](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20-%20BLUEJ%20Version.zip) or the [.jar Version](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption.jar) file.
+2. **Open in Your IDE:** If you picked the BlueJ version, open it in BlueJ. For the .jar Version, use your preferred IDE.
+3. **Start Coding:** Dive into the "Verschluesselung" class and embark on the coding challenge.
 
 ### For All Other Use Cases: ###
 
-1. **Download the Solution:**
-   - Opt for either the [BlueJ Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution%20-%20BLUEJ%20Version.zip) or the [.jar Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution.jar) file.
-
-2. **Open in Your IDE:**
-   - If you picked the BlueJ version, launch it in BlueJ. For the .jar Version, utilize your preferred IDE.
-
-3. **Explore or Adapt:**
-   - Delve into any of the classes and adapt them to suit your specific use case or explore the existing functionality.
+1. **Download the Solution:** Opt for either the [BlueJ Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution%20-%20BLUEJ%20Version.zip) or the [.jar Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution.jar) file.
+2. **Open in Your IDE:** If you picked the BlueJ version, launch it in BlueJ. For the .jar Version, utilize your preferred IDE.
+3. **Explore or Adapt:** Delve into any of the classes and adapt them to suit your specific use case or explore the existing functionality.
 
 Feel free to choose the path that aligns with your goals, whether it's tackling the challenge or leveraging the solution for other purposes. Happy coding!
 
