@@ -8,7 +8,7 @@ Welcome to the Playfair-Project, a Java application designed to help students im
 
 ## Getting Started: ##
 
-To begin exploring the Playfair-Project, follow these steps:
+Get started with the Playfair-Project by following these steps:
 
 ### For the Challenge Seekers and Educators: ###
 
@@ -27,14 +27,14 @@ To begin exploring the Playfair-Project, follow these steps:
 Feel free to choose the path that aligns with your goals, whether it's tackling the challenge or leveraging the solution for other purposes. Happy coding!
 
 ## How to Contribute: ##
-Contributions are welcome. Contributions are welcome! Whether you're a student looking to improve existing features or an experienced developer suggesting enhancements, your input is valuable.
+Contributions are welcome! Whether you're a student looking to improve existing features or an experienced developer suggesting enhancements, your input is valuable.
 * As listed in the title, the appliction itself is in german. Feel free to translate the existing version into an **englisch version of the program**. I am open to answer any upcoming question.
  
 ## Disclaimer: ##
 
 **Note:** The Playfair encryption algorithm implemented in this project has inherent limitations. It is crucial to be aware of the following constraints:
 
-0. **Language Barrier:** The user interface is in german, as well as all the code comments and description in the "Verschluesslung" class.
+0. **Language Barrier:** The user interface is in german, as well as all the code comments and description in the "Verschluesselung" class.
 
 1. **Exclusion of the Letter 'J':** Playfair encryption, as applied in this project, excludes the letter 'J' due to historical implementations. This limitation may affect the representation of certain text and impacts the key space.
 
