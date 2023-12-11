@@ -1,5 +1,5 @@
 # Playfair-Project [german] #
-Welcome to the Playfair-Project, a Java application designed to help students improve their programming skills. This project includes a simple Input/Output (IO) system and an encryption/decryption algorithm based on the Playfair encryption method.
+Welcome to the Playfair-Project, a Java application designed to help students improve their programming skills. This project includes a simple but robust Input/Output (IO) system and an encryption/decryption algorithm based on the Playfair encryption method.
 
 ## Key Features: ##
 * **Learn Encryption Basics:**  The Playfair-Project provides a practical opportunity for students to understand and implement encryption. The algorithm is based on the Playfair encryption technique, offering a hands-on learning experience.
@@ -10,7 +10,7 @@ Welcome to the Playfair-Project, a Java application designed to help students im
 
 To begin exploring the Playfair-Project, follow these steps:
 
-### For the Challenge Seekers: ###
+### For the Challenge Seekers and Educators: ###
 
 1. **Download:** Choose either the [BlueJ Version](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20-%20BLUEJ%20Version.zip) or the [.jar Version](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption.jar) file.
 2. **Open in Your IDE:** If you picked the BlueJ version, open it in BlueJ. For the .jar Version, use your preferred IDE.
@@ -19,7 +19,7 @@ To begin exploring the Playfair-Project, follow these steps:
 ### For All Other Use Cases: ###
 
 1. **Download the Solution:** Choose either the [BlueJ Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution%20-%20BLUEJ%20Version.zip) or the [.jar Solution](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Playfair%20Encryption%20Solution.jar) file.
-1.1 The application is also available as individual **java files**: [Frame](), [Panel](), and [Encryption]()
+1. The application is also available as individual **java files**: [Frame](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Frame.java), [Panel](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Panel.java), and [Encryption](https://github.com/Sebastian-Sonne/playfair-project/blob/main/Verschluesselung.java)
 2. **Open in Your IDE:** If you picked the BlueJ version, launch it in BlueJ. For the .jar Version, utilize your preferred IDE.
 3. **Explore or Adapt:** Delve into any of the classes and adapt them to suit your specific use case or explore the existing functionality.
 
@@ -28,7 +28,7 @@ Feel free to choose the path that aligns with your goals, whether it's tackling 
 
 ## How to Contribute: ##
 Contributions are welcome. Contributions are welcome! Whether you're a student looking to improve existing features or an experienced developer suggesting enhancements, your input is valuable.
-* As listed in the title, the appliction itself is in german. Feel free to translate the existing version into an **englisch version of the program**. Feel free to contact me if you are interested.
+* As listed in the title, the appliction itself is in german. Feel free to translate the existing version into an **englisch version of the program**. I am open to answer any upcoming question.
  
 ## Disclaimer: ##
 
