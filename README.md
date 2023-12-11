@@ -4,7 +4,7 @@ Welcome to the Playfair-Project, a Java application designed to help students im
 ## Key Features: ##
 * **Learn Encryption Basics:**  The Playfair-Project provides a practical opportunity for students to understand and implement encryption. The algorithm is based on the Playfair encryption technique, offering a hands-on learning experience.
 
-* **User-Friendly IO System:** Explore the project's straightforward Input/Output system, making it easy to interact with the encryption and decryption processes.
+* **User-Friendly IO System:** Explore the project's straightforward Input/Output system, making it easy to interact with the encryption and decryption processes. See [here](https://github.com/Sebastian-Sonne/playfair-project/blob/main/UI%20outline.png) for yourself!
 
 ## Getting Started: ##
 
