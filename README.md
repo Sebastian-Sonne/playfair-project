@@ -25,7 +25,7 @@ Welcome to the Playfair-Project, a Java application designed to enhance students
 2. **Open in Your IDE:**
    - If you selected the BlueJ version, launch it in BlueJ. For the .jar Version, use your preferred IDE.
 3. **Explore or Adapt:**
-   - Delve into any of the classes and adapt them to suit your specific use case or explore the existing functionality.
+   - Dive into any of the classes and adapt them to suit your specific use case or explore the existing functionality.
 
 Feel free to choose the path that aligns with your goals, whether it's tackling the challenge or leveraging the solution for other purposes.
 
