@@ -38,13 +38,11 @@ Contributions are welcome! Whether you're a student looking to improve existing 
 
 1. **Language Barrier:** The user interface, code comments, and descriptions in the "Verschluesselung" class are in German.
 
-2. **Exclusion of the Letter 'J':** Playfair encryption in this project excludes the letter 'J' due to historical implementations, impacting the representation of certain text and key space.
+2. **Character Restrictions:** Both input and passwords are limited to alpha characters only, excluding the letter 'J' due to historical implementation reasons. An **Input Error Detection** mechanism is in place to guarantee a smooth user experience.
 
 3. **Password Size Limitation:** For simplicity and practicality in this educational context, the password size is intentionally limited to 50 characters.
 
-4. **Character Restrictions:** The password is restricted to alpha characters only, excluding the letter 'J'. Any non-alpha characters will not be processed in the encryption or decryption operations.
-
-5. **Input Error Detection:** The application includes input error detection to enhance the user experience. Note that this feature is customizable within the project itself to suit specific requirements.
+4. **Input Error Detection:** The application includes input error detection to enhance the user experience. Note that this feature is customizable within the project itself to suit specific requirements.
 
 Users are encouraged to use this project for educational purposes and understand that these limitations are specific characteristics of this implementation. The author disclaims any responsibility for the algorithm's use beyond its intended educational scope.
 
