@@ -30,7 +30,8 @@ Welcome to the Playfair-Project, a Java application designed to enhance students
 Feel free to choose the path that aligns with your goals, whether it's tackling the challenge or leveraging the solution for other purposes.
 
 ## How to Contribute: ##
-Contributions are welcome! Whether you're a student looking to improve existing features or an experienced developer suggesting enhancements, your input is valuable. As mentioned in the title, the application is in German. Feel free to translate the existing version into an English version of the program. I am open to answering any questions.
+Contributions are welcome! Whether you're a student looking to improve existing features or an experienced developer suggesting enhancements, your input is valuable. 
+* As mentioned in the title, the application is in German. Feel free to **translate** the existing version into an English version of the program. I am open to answering any questions.
 
 ## Disclaimer: ##
 
