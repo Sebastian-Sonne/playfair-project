@@ -24,7 +24,7 @@ Get started with the Playfair-Project by following these steps:
 3. **Explore or Adapt:** Delve into any of the classes and adapt them to suit your specific use case or explore the existing functionality.
 
 
-Feel free to choose the path that aligns with your goals, whether it's tackling the challenge or leveraging the solution for other purposes. Happy coding!
+Feel free to choose the path that aligns with your goals, whether it's tackling the challenge or leveraging the solution for other purposes.
 
 ## How to Contribute: ##
 Contributions are welcome! Whether you're a student looking to improve existing features or an experienced developer suggesting enhancements, your input is valuable.
