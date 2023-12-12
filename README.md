@@ -7,7 +7,7 @@ Welcome to the Playfair-Project, a Java application designed to enhance students
 
 * **User-Friendly IO System:** Explore the project's straightforward Input/Output system, making it easy to interact with the encryption and decryption processes. [Check out the UI outline here](https://github.com/Sebastian-Sonne/playfair-project/blob/main/UI%20outline.png).
 
-* **Input Error Detection:** A enhanced input error detection tailored to the requirements of the Playfair algorithm is in place.
+* **Input Error Detection:** An enhanced input error detection tailored to the requirements of the Playfair algorithm is in place.
 
 ## Getting Started: ##
 
